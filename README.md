@@ -2,7 +2,7 @@ This project is created for interview purposes only. Muhammad Wazeef bin Zainol 
 
 INSTRUCTION TO INTERVIEWER:
 
-1. To see the report, you need to go to code folder > main.ipynb.
+1. To see the report, you need to go to the folder directory : code > main.ipynb.
 2. All the reporting comments were written in a Jupyter Notebook file to ease documenting.
 3. You can run the code yourself. Make sure Jupyter Notebook is installed.
 4. You can copy my repository and clone it into your local machine.
